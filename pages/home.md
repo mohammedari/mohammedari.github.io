@@ -1,20 +1,20 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work or case studies in style with this markdown powered portfolio theme for Jekyll."
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate - Premium Portfolio Theme
+title: "Hi, I'm <strong>Kazuyuki Arimatsu.</strong>"
+description: "Here is a list of my personal projects and blog posts. To learn more about my professional experience, please visit my <a href=\"https://www.linkedin.com/in/mohammedari/\">LinkedIn profile.</a>"
+meta_description: "Kazuyuki Arimatsu's personal projects and blog"
+meta_title: Kazuyuki Arimatsu's personal projects and blog
 subscribe: false
 
 projects:
-  heading: "" # "Projects"
+  heading: "Personal Projects" # "Projects"
   sub_heading: "" # "A collection of our recent work"
-  limit: 4
+  limit: 3
   sort: weight # date | weight
   view_more_button_text: "" # "More Projects"
   view_more_button_link: "" # "/projects"
-  columns: 2 # 1 | 2 | 3 | 4
+  columns: 3 # 1 | 2 | 3 | 4
 
 posts:
   heading: "Recent Posts"

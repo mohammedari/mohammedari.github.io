@@ -99,15 +99,15 @@ colors:
 
 fonts:
   use_google_fonts: false
-  google_fonts_url: "https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,500;9..40,700&family=Fira+Mono&display=swap"
+  google_fonts_url: ""
   use_self_hosted_fonts: true # font files must be placed in /assets/fonts folder and the @font-face definitions must be added to /assets/css/fonts.css
-  heading: "'DM Sans'"
-  base: "'DM Sans'"
+  heading: "'Noto Sans JP'"
+  base: "'Noto Sans JP'"
   monospace: "'Fira Mono'"
-  logo: "'DM Sans'"
+  logo: "'Delta Gothic One'"
 
 logo:
-  logo_text: "Jekyll Curate"
+  logo_text: "背筋トレーニング日記"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -116,13 +116,13 @@ logo:
   logo_image_desktop_width: "28px"
   logo_image_mobile_height: "28px"
   logo_image_mobile_width: "28px"
-  show_logo_image_on_mobile: true
-  show_logo_image_on_desktop: true
-  show_logo_text_on_mobile: false
-  show_logo_text_on_desktop: false
+  show_logo_image_on_mobile: false
+  show_logo_image_on_desktop: false
+  show_logo_text_on_mobile: true
+  show_logo_text_on_desktop: true
 
 header: 
-  fixed: false
+  fixed: true
 
 open_graph:
   meta_opengraph_type: "website"
@@ -142,7 +142,7 @@ cookie_banner:
 
 analytics:
   disable_analytics_on_localhost: false # prevents polluting analytics data while developing but enabling can be useful
-  google_analytics_id: "" # G-XXXXXXXXXX
+  google_analytics_id: "G-YPLZQZDD60" # G-XXXXXXXXXX
   gtm_id: "" # GTM-XXXXXXXX
   plausible_data_domain: "" # mywebsite.com
   umami_data_website_id: "" # ddd14336-5fb0-4cdd-8f32-e1bfa906cc2b
@@ -152,18 +152,18 @@ comments:
   commento:
     enabled: false # you must have a commento account and be on the correct domain. does not work locally.
   disqus:
-    shortname: "zerostatic" # Your disqus shortcode for example "zerostatic". leave this blank ie "" to disable.
+    shortname: "" # Your disqus shortcode for example "zerostatic". leave this blank ie "" to disable.
 
 newsletter:
   mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
-    form_title: "Let's keep in touch"
+    form_action_url: ""
+    form_title: ""
 
 contact_form: 
   use_netlify_form: false
-  use_formspree_form: true
-  formspree_endpoint: https://formspree.io/f/moqyklqv
-  netlify_form_name: "contact"
+  use_formspree_form: false
+  formspree_endpoint: ""
+  netlify_form_name: ""
 
 menu: 
   show_dropdown_items_in_mobile_menu: false
@@ -171,19 +171,19 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Curate"
-  footer_description: "Curate is a creative portfolio for Jekyll by Zerostatic Themes."
+  footer_title: "Kazuyuki Arimatsu"
+  footer_description: "I’m an autonomous robot enthusiast and a member of a self-funded club team. Recently, though, most of my activities have been focused on custom keyboard design."
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
-  footer_primary_menu_title: "Our Projects"
-  footer_secondary_menu_title: "Company"
-  footer_tertiary_menu_title: "Other"
+  footer_primary_menu_title: "Personal Projects"
+  footer_secondary_menu_title: "Others"
+  footer_tertiary_menu_title: ""
 
 bottom:
   enable_bottom: false # show/hide the entire bottom (below the footer)
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  copyright_text: "© 2025 Kazuyuki Arimatsu"
   show_rss_icon: true
