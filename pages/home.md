@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Hi, I'm <strong>Kazuyuki Arimatsu.</strong>"
-description: "Here is a list of my personal projects and blog posts. To learn more about my professional experience, please visit my <a href=\"https://www.linkedin.com/in/mohammedari/\">LinkedIn profile.</a>"
+title: "Hi, I'm <strong>Kazuyuki.</strong>"
+description: "Here is a list of my personal projects and blog posts. To learn more about my professional experience, please visit my <strong><a href=\"https://www.linkedin.com/in/mohammedari/\">LinkedIn profile.</a></strong>"
 meta_description: "Kazuyuki Arimatsu's personal projects and blog"
 meta_title: Kazuyuki Arimatsu's personal projects and blog
 subscribe: false
