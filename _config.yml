@@ -101,9 +101,9 @@ fonts:
   use_google_fonts: false
   google_fonts_url: ""
   use_self_hosted_fonts: true # font files must be placed in /assets/fonts folder and the @font-face definitions must be added to /assets/css/fonts.css
-  heading: "'DM Sans'"
+  heading: "'DM Sans', 'Noto Sans JP'"
   base: "'Noto Sans JP'"
-  monospace: "'Fira Mono'"
+  monospace: "'Fira Mono', 'Noto Sans JP'"
   logo: "'Dela Gothic One'"
 
 logo:

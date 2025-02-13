@@ -1,6 +1,6 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "Water Works Revitalisation"
+title: "これはテストの日本語です"
 description: "Breathing new life into old industrial estates"
 date: 2018-12-20
 weight: 2
