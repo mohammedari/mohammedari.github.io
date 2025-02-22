@@ -1,5 +1,5 @@
 ---
-layout: project-left
+layout: project-right
 title: "Project C.G.S."
 description: "Self-funded club team for international robotics competion."
 date: 2022-11-21
