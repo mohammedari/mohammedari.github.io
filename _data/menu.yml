@@ -7,10 +7,10 @@ main:
     weight: 2
     child:
       - name: "Keyboard Design"
-        icon: "/assets/images/gen/projects/keyboard-design/icon.webp"
-        icon_darkmode: "/assets/images/gen/projects/keyboard-design/icon.webp"
+        icon: "/assets/images/gen/projects/keyboard/icon.webp"
+        icon_darkmode: "/assets/images/gen/projects/keyboard/icon.webp"
         description: "Self-made computer keyboard kit"
-        url: /projects/keyboard-design/
+        url: /projects/keyboard/
       - name: "Project C.G.S."
         icon: "/assets/images/gen/projects/cgs/icon.webp"
         icon_darkmode: "/assets/images/gen/projects/cgs/icon.webp"
@@ -39,7 +39,7 @@ main:
 
 footer_primary:
   - name: "Keyboard Deisgn"
-    url: /projects/keyboard-design/
+    url: /projects/keyboard/
   - name: "Project C.G.S."
     url: /projects/cgs/
 

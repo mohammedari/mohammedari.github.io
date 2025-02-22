@@ -5,9 +5,9 @@ description: "Self-funded club team for international robotics competion."
 date: 2022-11-21
 weight: 2
 thumbnail: "/assets/images/gen/projects/cgs/thumbnail.webp"
-categories: ["Robotics"]
-client: ""
-role: ""
+#categories: ["Robotics"]
+#client: ""
+#role: ""
 gallery:
   - image: "/assets/images/gen/projects/cgs/cgs1.webp"
   - image: "/assets/images/gen/projects/cgs/cgs2.webp"
