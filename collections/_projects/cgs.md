@@ -3,7 +3,7 @@ layout: project-left
 title: "Project C.G.S."
 description: "Self-funded club team for international robotics competion."
 date: 2022-11-21
-weight: 1
+weight: 2
 thumbnail: "/assets/images/gen/projects/cgs/thumbnail.webp"
 categories: ["Robotics"]
 client: ""

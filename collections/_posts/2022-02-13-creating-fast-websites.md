@@ -2,7 +2,7 @@
 layout: post
 title: "Placeholder Post"
 date: 2022-02-13T09:49:03Z
-authors: ["Mike Vance"]
+authors: ["Kazuyuki Arimatsu"]
 categories: ["Robotics", "Keyboard"]
 description: Please be patient until a post is created soon...
 thumbnail: "/assets/images/gen/blog/2022-02-13/blog-18-thumbnail.webp"
