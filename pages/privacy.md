@@ -106,9 +106,3 @@ We take reasonable measures to help protect your personal data from loss, theft,
 ## Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
----
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, You can contact us: [support@example.com](mailto:support@example.com)

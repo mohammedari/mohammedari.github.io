@@ -38,14 +38,10 @@ main:
   
 
 footer_primary:
-  - name: "Project 1"
-    url: /projects/project-1/
-  - name: "Project 2"
-    url: /projects/project-2/
-  - name: "Project 3"
-    url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
+  - name: "Keyboard Deisgn"
+    url: /projects/keyboard-design/
+  - name: "Project C.G.S."
+    url: /projects/cgs/
 
 footer_secondary:
   - name: Blog
