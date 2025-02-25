@@ -10,16 +10,13 @@ thumbnail: "/assets/images/gen/projects/cgs/thumbnail.webp"
 role: "Recognition Software Development; UAV Hardware Design; UAV Pilot"
 gallery:
   - image: "/assets/images/gen/projects/cgs/cgs3.webp"
-    caption: "<strong>Capybara Series:</strong> Our original deisgn UGV for Tsukuba challenge competition. The most recent hardware equips Velodyne and Hokuyo lidars for environmental mapping and collision avoidance."
+    caption: "<strong>Capybara Series:</strong> Our original design UGV for the Tsukuba Challenge competition."
   - image: "/assets/images/gen/projects/cgs/cgs4.webp"
-    caption: "<strong>Inside Capybara:</strong> The most recent hardware equips RGB camera, Velodyne lidar, and three Hokuyo lidars for environmental mapping and collision avoidance."
+    caption: "<strong>Inside Capybara:</strong> The latest version includes an RGB camera, a Velodyne LiDAR, and three Hokuyo LiDARs for environmental mapping and collision avoidance."
   - image: "/assets/images/gen/projects/cgs/drone1.webp"
-    caption: "<strong>Bumblebee:</strong> Our first UAV for MBZIRC 2018 autonomous landing challenge."
-  #- image: "/assets/images/gen/projects/cgs/drone2.webp"
+    caption: "<strong>Bumblebee:</strong> Our first UAV developed for the MBZIRC 2018 autonomous landing challenge."
   - image: "/assets/images/gen/projects/cgs/drone2-1.webp"
-    caption: "<strong>CGS 680:</strong> Our latest UAV for MBZIRC 2020 balloon target capture challenge."
-  #- image: "/assets/images/gen/projects/cgs/drone2-3.webp"
-  #- image: "/assets/images/gen/projects/cgs/drone2-4.webp"
+    caption: "<strong>CGS 680:</strong> Our newest UAV designed for the MBZIRC 2020 balloon target capture challenge."
 ---
 
 Project C.G.S. is a group of alumni from a student robotics club at Waseda University. While we were students, we participated in the NHK Robocon (an annual competition organized by Japan’s national broadcaster) and the Tsukuba Challenge (an annual domestic UGV competition). After we graduated, we reorganized ourselves as a self-funded club and expanded our activities by competing in the Mohammed Bin Zayed International Robotics Challenge (MBZIRC).

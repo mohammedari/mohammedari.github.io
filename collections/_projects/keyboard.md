@@ -10,13 +10,13 @@ thumbnail: "/assets/images/gen/projects/keyboard/thumbnail.webp"
 role: "Mechanical and Electrical Design; Software Development"
 gallery:
   - image: "/assets/images/gen/projects/keyboard/thumbsplit60ble.webp"
-    caption: "<strong>Thumbsplit 60 BLE:</strong> Fully wireless split keyboard that supports standard 104 layout keycaps using custom-design stabilizers."
+    caption: "<strong>Thumbsplit 60 BLE:</strong> A fully wireless split keyboard supporting standard 104 layout keycaps and featuring custom-designed stabilizers."
   - image: "/assets/images/gen/projects/keyboard/thumbsplit58-ble.webp"
-    caption: "<strong>Thumbsplit 58 BLE:</strong> Fully wireless split keyboard with enhanced switch height to support various keycaps with low profile swithes."
+    caption: "<strong>Thumbsplit 58 BLE:</strong> A fully wireless split keyboard with increased switch height for compatibility with various keycaps and low-profile switches."
   - image: "/assets/images/gen/projects/keyboard/thumbsplit58-wired.webp"
-    caption: "<strong>Thumbsplit 58 Wired:</strong> Wired split keyboard with enhanced switch height, wired variant of BLE version."
+    caption: "<strong>Thumbsplit 58 Wired:</strong> A wired split keyboard with increased switch height — this is the wired variant of the BLE version."
   - image: "/assets/images/gen/projects/keyboard/thumbsplit58.webp"
-    caption: "<strong>Thumbsplit 58:</strong> My first designed wireless split keyboard with dongle layout."
+    caption: "<strong>Thumbsplit 58:</strong> My first wireless split keyboard, featuring a dongle layout."
 ---
 
 I was originally fascinated by computer input devices and used a ThinkPad keyboard for many years. After suffering from tendonitis and shoulder pain, I became interested in split keyboards and ultimately designed my own in pursuit of the “endgame” keyboard.
