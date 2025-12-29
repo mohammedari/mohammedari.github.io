@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Generate blog thumbnails",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/convert_images.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}

@@ -1,42 +1,18 @@
 ---
 layout: post
-title: "Placeholder Post"
+title: "Migrated from my previous blog!"
 date: 2022-02-13T09:49:03Z
 authors: ["Kazuyuki Arimatsu"]
 categories: ["Robotics", "Keyboard"]
-description: Please be patient until a post is created soon...
-thumbnail: "/assets/images/gen/blog/2022-02-13/blog-18-thumbnail.webp"
-image: "/assets/images/gen/blog/2022-02-13/blog-18.webp"
+description: I migrated my blog from a previous Blogger site to this portfolio. Older posts are still hosted on the original blog, and I’ll publish new articles here whenever I have fresh topics to share.
+thumbnail: "/assets/images/gen/blog/2022-02-13/previous-blog.webp"
+image: "/assets/images/gen/blog/2022-02-13/previous-blog-thumbnail.webp"
 comments: false
 subscribe: true
 ---
 
-figure
+![以前のブログ]({{ "/assets/images/gen/blog/2022-02-13/previous-blog-thumbnail.webp" | relative_url }})
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+[以前のブログ](https://mohammedari.blogspot.com/)から、こちらのポートフォリオページにブログを移設しました。コンテンツを移植する予定はないのと、以前のBloggerサービスも当面は維持されそうなので、以前の記事を参照する場合は以前のブログ記事を参照してください。
 
-image
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-```js
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop();
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- fenced code blocks that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+もともと最近は投稿が止まってしまっていたのですが…、何かネタができたらこちらに投下していきたいと思っています :dogeza:
