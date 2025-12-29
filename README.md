@@ -11,28 +11,26 @@ Here this repository will store the source code of my presonal portofolio page.
 5. Make a PR to build the page to track the modification.
 6. Merge the PR to reflect the modification.
 
+> [!TIP]
+> If you specify future date in date field, the post will not appear to the webpage until rebuilding the page after the date.
+
 Template of a new page will be:
 ````
 ---
 layout: post
 title: "Migrated from my previous blog!"
-date: 2022-02-13T09:49:03Z
+date: 2025-12-28T00:00:00Z
 authors: ["Kazuyuki Arimatsu"]
 categories: ["Robotics", "Keyboard"]
 description: My blog was migrated from the previous website hosted on blogger. Although I did not frequently post to the previous page recently, I would make a new post here if I had a chance.
-thumbnail: "/assets/images/gen/blog/2022-02-13/blog-18-thumbnail.webp"
-image: "/assets/images/gen/blog/2022-02-13/blog-18.webp"
+thumbnail: "/assets/images/gen/blog/2025-12-28/previous-blog-thumbnail.webp"
 comments: false
 subscribe: true
 ---
 
-figure
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
-
 image
 
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
+![Design In Figma]({{ "/assets/images/gen/blog/2025-12-28/previous-blog.webp" | relative_url }})
 
 ```js
 $(window).scroll(function () {
